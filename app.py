@@ -1,8 +1,4 @@
 import streamlit as st
-import pandas as pd
-import requests
-import json
-import datetime
 
 st.header("Moje aplikace")
 st.header ("Vítej v programu")
