@@ -4,6 +4,7 @@ import requests
 import json
 import datetime
 
+st.header("Moje aplikace")
 st.header ("Vítej v programu")
 choice = st.selectbox("Co chcete počítat?", ["ctverec", "obdelnik", "kvadr"])
 if choice == "ctverec":
